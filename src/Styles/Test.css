@@ -1,0 +1,15 @@
+.test-page{
+    height: 80vh;
+    background: url(./2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.test-container{
+   padding:1rem;
+   margin:1rem auto;
+    border:1px solid black;
+    height: 380px;
+    width: 200px;  
+    text-align: center;
+}
